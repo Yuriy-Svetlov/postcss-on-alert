@@ -1,6 +1,6 @@
 {
   "name": "postcss-on-alert",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Calls a function when an error or warning message is received",
   "main": "index.js",
   "license": "MIT",
